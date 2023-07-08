@@ -1,2 +1,2 @@
 # arduino-practice
-Arduino sketches I wrote to learn and practice arduino microcontroller programming.
+Arduino sketches I wrote to learn and practice microcontroller programming.
